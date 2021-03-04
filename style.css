@@ -1,0 +1,11 @@
+.header {
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Origami {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+}
